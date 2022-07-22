@@ -1,10 +1,10 @@
 const video = {
   id: 1,
-  title: "React Today and Tomorrow and 90% Cleaner React With Hooks",
-  embedUrl: "https://www.youtube.com/embed/dpw9EHDh2bM",
-  views: 730707,
-  createdAt: "Oct 26, 2018",
-  upvotes: 9210,
+  title: "WHERE'S THE MONEY LEBOWSKI",
+  embedUrl: "https://www.youtube.com/embed/KdftbYqA_VQ?list=PL-Z_UKED2TT8UJiA9sRnsu91_kZZdNGEG",
+  views: 34993272,
+  createdAt: "Aug 11, 2017",
+  upvotes: 602,
   downvotes: 185,
   comments: [
     {
